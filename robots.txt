@@ -1,0 +1,4 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://okiwol.github.io/dXR/sitemap.dXR.gz
